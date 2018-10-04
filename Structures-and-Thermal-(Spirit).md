@@ -1,0 +1,1 @@
+Information on the Structures and Thermal subsystem for _Spirit_
