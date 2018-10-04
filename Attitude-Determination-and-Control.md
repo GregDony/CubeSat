@@ -1,0 +1,1 @@
+Information on the Attitude Determination and Control System for both _Spirit_ and _Opportunity_
