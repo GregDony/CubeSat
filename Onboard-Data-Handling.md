@@ -1,0 +1,1 @@
+Information on the Onboard Computer for both _Spirit_ and _Opportunity_
