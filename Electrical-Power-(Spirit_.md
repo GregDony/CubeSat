@@ -1,0 +1,1 @@
+Information on the Electrical Power system for _Spirit_
