@@ -12,20 +12,28 @@ The Preliminary Design Phase of the CubeSat Project features two parallel system
     Other Student Support: Sanjayan, Alex, Matt
 
 ## Ground Segment
+These groups represent the ground segment of the CubeSat mission and are robust to either CubeSat system design
+
     MIAS Mission Analysis: Danlei #orbit
     GS Ground Station: Raj, Annie, Wayne, Tushar #ground-station
     MOPS Mission Operations: Sarah, Dana, Nick, Tom #mission_control
 
 ## Space Segment: Common
+These groups represent the common CubeSat subsystems that are common for both _Spirit_ and _Opportunity_ with minor variations.
+
     ADCS Attitude Determination and Control: Rachelle, Lauren, James, John #adcs
     OBDH Onboard Data Handling: Joyce, Chris, Steven #obdh
 
 ## Space Segment: Spirit
+These groups represent the CubeSat subsystems specific to the _Spirit_ system configuration.
+
     COMM S-Band Communications: Karen, Jiayang, Daniel, Rajja #comms
     EPS Electrical Power: Alec, Adam, Jamal, Ze Xu Zhu #eps
     STRU Structures and Thermal: Danlei, Nick, Derek, Mohamad #structure #thermal
 
 ## Space Segment: Opportunity
+These groups represent the CubeSat subsystems specific to the _Opportunity_ system configuration.
+
     COMM UHF Communications: Sam, Sean, Micheal #comms
     EPS Electrical Power: Carlee, Vlad, Jorie #eps
     STRU Structures and Thermal: Greg, Steven, Adrian, Bryan #structure #thermal
