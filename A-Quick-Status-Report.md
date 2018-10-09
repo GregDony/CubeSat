@@ -1,3 +1,21 @@
+# Near Term Technical Activities
+1. Define requirements
+2. Develop orbital analysis models
+3. Define interfaces
+4. Maintain system budgets
+5. Maintain configuration
+6. Develop Mission Operations Concept
+
+# Near Term Management Activities
+1. Apply for licenses
+2. Prepare documentation for review
+
+# Near Term Programmatic Activities
+1. CubeSat club
+2. Nunavut partnership definition
+3. Spring workshop definition
+4. Summer space camp definition
+
 # Current CubeSat Schedule
 
 ## Preliminary Design Definition 
