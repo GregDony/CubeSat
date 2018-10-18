@@ -5,3 +5,4 @@ We need information on maximum and minimum power usage for each of the operating
 We need to know how long the transceiver, camera and other large power drawing sources will be on for. This can be in terms of what is absolutely needed and what is the best-case scenario. 
 
 We are working towards choosing the solar panels, battery and protection/distribution unit so that we can provide information on masses, temperature ranges and minimum to maximum power generation in order to give answers to those subgroups requiring large amounts of power for long or short times. 
+
