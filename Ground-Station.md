@@ -10,4 +10,5 @@
 * Ensuring selected actuators can function in varying environments under the loads exerted by the equipment
 
 ## Pointing Control System
-* 
+* Implementing a safety feature should the cubesat "go dark"
+* Controlling actuators to move to their required positions in an acceptable amount time
