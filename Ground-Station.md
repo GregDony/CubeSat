@@ -1,6 +1,6 @@
 # Responsibilities
 ## Orbit Tracking System
-#### - Developing a predictive model for determining the location of the satellite in space given telemetric information
+ * Developing a predictive model for determining the location of the satellite in space given telemetric information
 #### - Correcting for pointing error to ensure maximum uplink during passes
 #### - Designing algorithms to determine pointing angles given geological location and elevation
 
