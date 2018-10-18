@@ -16,6 +16,8 @@
 	
            Heaters- patch heater with control switchcoatings or insulation blankets 
 
+           Heat pipes
+
 - Thermistors for temperature measurement and control
 
 ### Vibrations
