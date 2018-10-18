@@ -2,7 +2,7 @@
 
 - We need: Operating and Survival temperature ranges of all components panning to be used
 
-- How can we position the components to best evenly distribute possible dissipated heat from operations?
+- How can we position the components to best evenly distribute possible dissipated heat from operations? The cameras will be a unique heat source
 
 - Thermal regulation can be achieved by :
 
@@ -22,7 +22,7 @@
 
 - We will only be using sliding or locking connectors to avoid threaded connections possibly becoming loose during launch
 
-- Can we use internal components for further structural support? 
+- Other CubeSats have used internal payload for secondary structural elements 
 
 ### Planning
 
