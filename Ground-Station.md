@@ -9,5 +9,5 @@
 * Implementing feedback loop using rotary sensors to get exact angular position
 * Ensuring selected actuators can function in varying environments under the loads exerted by the equipment
 
-## Positioning Control System
-*
+## Pointing Control System
+* 
