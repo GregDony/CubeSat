@@ -9,7 +9,7 @@ Information on the Electrical Power system for _Spirit_
 
 # **EPS Deliverables**
 * Tentative Power Budget will be released for different operational modes ~Oct 25
-* Preliminary Solar Panel Options
+* Preliminary Solar Panel Options ~Nov 1-6
 
 # **Needs**
 * Voltage requirements for on-board computer, payload, communication system, attitude control **High Priority**
