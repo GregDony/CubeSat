@@ -12,5 +12,5 @@ Information on the Electrical Power system for _Spirit_
 * Preliminary Solar Panel Options ~Nov 1-6
 
 # **Needs**
-* Voltage requirements for on-board computer, payload, communication system, attitude control (**High Priority**)
+* Voltage & Current ratings for on-board computer, payload, communication system, attitude control components(**High Priority**)
 * Orbit path for worst case scenario i.e. incident angle from sun for each panel face, time spent facing sun, time in eclipse (**Low Priority**)
