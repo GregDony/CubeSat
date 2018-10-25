@@ -7,8 +7,8 @@ The ADCS will provide accuracy and stability to the spacecraft to ensure mission
 ------------------------------------------------------------------------------------------------------------------
 
 **Operational Modes:**
-1) Detumbling: After the initial release of the CubeSat, the ADCS must be able to stabilize itself and bring its velocity to zero.
-2) Nominal: When the CubeSat is in orbit, it must be stable and its velocity should be zero in reference to its orbit.
+1) Detumbling: After the initial release of the CubeSat, the ADCS must be able to stabilize the CubeSat's attitude and bring its velocity to zero.
+2) Nominal: When the CubeSat is in orbit, the ADCS must be able to stabilize the CubeSat's attitude.
 3) Imaging: Points the camera at a specific point and stabilizes the CubeSat at a certain attitude for imaging purposes.
 4) Safe mode: Ensure CubeSat stays power positive, ensure communication with ground (?), prevent momentum acceleration.
 5) Data dump: Points the antenna towards ground and stabilizes the CubeSat at a certain attitude to optimize data dump.
