@@ -40,4 +40,5 @@
 
             - If machining is needed in order to have the cameras fit then additional support may be needed to strengthen the structure 
 
-
+### Failures
+ - Michael Swartout states that “more time needs to be devoted to system-level functional testing rather than mechanical, thermal, and '
