@@ -22,7 +22,7 @@ Satellite orbit factors of consideration:
 * Adams-Bashforth-Moulton and Shampine-Gordon fourth-order method: Multi-step predictor-corrector methods.
 
 3. General Perturbation Techniques: Uses analytical approximations of the satellite motion over a time interval with initial condition data.
-* Variation of Parameters (VOP): Uses the generalized Lagrange planetary equations of motion for non-linear integral systems and changing orbital parameters in the two-body equations.
-* Gaussian VOP: Shows the rate of change of the non-conservative forces expressed directly by the perturbing acceleration.
+* Lagrange Variation of Parameters (VOP): Uses the generalized Lagrange planetary equations of motion for non-linear integral systems and changing orbital parameters in the two-body equations.
+* Gaussian Variation of Parameters (VOP): Shows the rate of change of the non-conservative forces expressed directly by the perturbing acceleration.
 
 
